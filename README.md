@@ -14,16 +14,16 @@ _________________________________________<br>
 <br>
  
 
-Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... ( _remember to add openCV DLL path to system PATH)<br>
+Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to system PATH)<br>
 
 
 <br>
 <br>
-QT5 test app for loading picture w/ OpenCV br>
+QT5 test app for loading picture w/ OpenCV... <br>
 <img src="pic/OpenCV4TestPic.jpg" width=720/>
 <br><br>
 
-QT5 test app for image editing w/ OpenCV...
+QT5 test app for image editing w/ OpenCV... <br>
 <img src="pic/TheAwesomeChicken.jpg" width=720/>
 <br>
 
