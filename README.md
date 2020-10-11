@@ -1,5 +1,5 @@
 # QT5_Opencv4.4_MinGW[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
-Build and test on MinGW64bit OpenCV4.4 w/ QT5
+Build and test on MinGW64bit OpenCV4.4 w/ QT5 (Windows10)
 
 Config OpenCV4.4 w/ following changes: <br>
 ________________________________________<br>
