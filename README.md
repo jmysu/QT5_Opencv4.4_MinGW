@@ -19,7 +19,7 @@ Rebuild OpenCV w/ Qt5.15.1-MinGW64bit...<br>
 
 <br>
 <br>
-QT5 test app for loading picture w/ OpenCV (_remember to add openCV DLL path to system PATH_)<br>
+QT5 test app for loading picture w/ OpenCV ( _remember to add openCV DLL path to system PATH_ )<br>
 <img src="pic/OpenCV4TestPic.jpg" width=720/>
 <br><br>
 
