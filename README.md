@@ -32,7 +32,7 @@ QT5 test app for image editing w/ OpenCV... <br>
 
 ## References
   - [OpenCV4.4](https://github.com/opencv) OpenCV Github repository w/ Opencv_contrib
-  - [QT5.15](https://www.qt.io/download) www.qt.io Where to download the QT5 framework
+  - [QT5.15](https://www.qt.io/download) [www.qt.io Where to download the QT5 framework]
   - [Qt 5 and Open CV 4 Computer Vision Projects](https://www.youtube.com/playlist?list=PLeLcvrwLe187K3Ceoe3X3VMAa31591aO8) Watch Youtube clips online
 
 
