@@ -14,7 +14,7 @@ _________________________________________<br>
 <br>
  
 
-Rebuild OpenCV w/ Qt5.15.1-MinGW64bit...(__remember to add openCV DLL path to system PATH)<br>
+Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... ( _remember to add openCV DLL path to system PATH)<br>
 
 
 <br>
