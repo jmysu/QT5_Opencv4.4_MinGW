@@ -2,7 +2,7 @@
 Build and test on MinGW64bit OpenCV4.4 w/ QT5
 
 Config OpenCV4.4 w/ following changes: <br>
-
+________________________________________<br>
 v   WITH_QT                           //With QT mouse UI <br>
 v   WITH_OPENGL <br>
 v   CMAKE_CXX_STANDARD_REQUIRED  <br>
@@ -10,6 +10,7 @@ Add CMAKE_CXX_STANDARD 11             //Fix undefined reference std::__cxx11 iss
 <br>
 x   OPENCV_ENABLE_ALLOCATOR_STATS     //Fix error:long <br>
 x   ENABLE_PRECOMPILED_HEADERS        //Fix math.h issue <br>
+_________________________________________<br>
 <br>
  
 
