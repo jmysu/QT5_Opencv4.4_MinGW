@@ -24,6 +24,7 @@ QT5 test app for loading picture w/ OpenCV... <br>
 <br><br>
 
 QT5 test app for image editing w/ OpenCV... <br>
+(from chap.02 in [Qt 5 and Open CV 4 Computer Vision Projects])<br>
 <img src="pic/TheAwesomeChicken.jpg" width=720/>
 <br>
 
