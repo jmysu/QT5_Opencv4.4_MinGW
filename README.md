@@ -10,7 +10,7 @@ Add &nbsp;&nbsp;&nbsp; CMAKE_CXX_STANDARD 11             //Fix undefined referen
 <br>
 x &nbsp;&nbsp;&nbsp;  OPENCV_ENABLE_ALLOCATOR_STATS     //Fix error:long <br>
 x &nbsp;&nbsp;&nbsp;  ENABLE_PRECOMPILED_HEADERS        //Fix math.h issue <br>
-Add &nbsp;&nbsp;&nbsp; OPENCV_EXTRA_MODULES_PATH where_saved_path_of_opencv_contrib
+Add &nbsp;&nbsp;&nbsp; OPENCV_EXTRA_MODULES_PATH where_saved_path_of_opencv_contrib _modules
 _________________________________________<br>
 <br>
  
