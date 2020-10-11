@@ -23,6 +23,10 @@ QT5 test app for loading picture w/ OpenCV ( _remember to add openCV DLL path to
 <img src="pic/OpenCV4TestPic.jpg" width=720/>
 <br><br>
 
+QT5 test app for image editing w/ OpenCV
+<img src="pic/TheAwesomeChicken.jpg" width=720/>
+<br>
+
 <br><br>
 
 
