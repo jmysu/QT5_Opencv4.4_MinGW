@@ -2,7 +2,8 @@
 Build and test on MinGW64bit OpenCV4.4 w/ QT5 (Windows10)
 
 Config OpenCV4.4 w/ following changes: <br>
-<br>                                               |
+<br>                            
+| Option  | Modified OpenCV Variables |
 | --- | --- |
 | v | WITH_QT //With QT mouse UI|
 | v | WITH_OPENGL |
