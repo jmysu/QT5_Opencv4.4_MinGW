@@ -29,6 +29,7 @@ Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to sys
 <br>
 
  __QT5 app for adjusting depth map from stereo phtos w/ OpenCV4...__<br>
+ (_from AbsurdePhoton_)<br>
 <img src="pic/DisparityFilter.jpg" width=480 height=300/> <br>
 
 <br>
@@ -39,5 +40,5 @@ Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to sys
   - [OpenCV4.4](https://github.com/opencv) OpenCV Github repository w/ Opencv_contrib
   - [QT5.15](https://www.qt.io/download) _www.qt.io_ Where to download the QT5 framework
   - [Qt 5 and Open CV 4 Computer Vision Projects](https://www.youtube.com/playlist?list=PLeLcvrwLe187K3Ceoe3X3VMAa31591aO8) Watch YouTube clips online
-  - [Disparity and depth maps with QT and OpenCV with support for classic image files and MPO stereo pairs](https://github.com/AbsurdePhoton/disparity-filtering-mpo) Depth map project on Github.
+  - [Disparity and depth maps with QT and OpenCV with support for classic image files and MPO stereo pairs](https://github.com/AbsurdePhoton/disparity-filtering-mpo) AbsurdePhoton: Depth map project on Github.
 
