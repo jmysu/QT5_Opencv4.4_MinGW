@@ -15,23 +15,21 @@ Config OpenCV4.4 w/ following changes: <br>
 <br>
 <br>
  
-
 Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to system PATH)<br>
 
 <br>
-### QT5 test app for loading picture w/ OpenCV4... ### <br>
+__QT5 app for loading picture w/ OpenCV4...__ <br>
 <img src="pic/OpenCV4TestPic.jpg" width=640 height=400/>
-<br><br>
-
-### QT5 test app for image editing w/ OpenCV4... ### <br>
+<br>
+__QT5 app for image editing w/ OpenCV4...__ <br>
 (_from chap.02 in [Qt 5 and Open CV 4 Computer Vision Projects]_)<br>
 <img src="pic/TheAwesomeChicken.jpg" width=480 height=300/>
 <br>
-
-### App for adjusting depth map from stereo phtos w/ OpenCV4... ###<br>
+__QT5 app for adjusting depth map from stereo phtos w/ OpenCV4...__<br>
 <img src="pic/DisparityFilter.jpg" width=480 height=300/> <br>
 
-<br><br>
+<br>
+<br>
 
 
 ## References
