@@ -3,7 +3,10 @@ Build and test on MinGW64bit OpenCV4.4 w/ QT5 (Windows10)
 
 Config OpenCV4.4 w/ following changes: <br>
 ________________________________________<br>
-v &nbsp;&nbsp;&nbsp;  WITH_QT                           //With QT mouse UI <br>
+| Option  | Variables                                                                  |
+| ------- | -------------------------------------------------------------------------- |
+
+|v        | WITH_QT   //With QT mouse UI <br> |
 v &nbsp;&nbsp;&nbsp;  WITH_OPENGL <br>
 v &nbsp;&nbsp;&nbsp;  CMAKE_CXX_STANDARD_REQUIRED  <br>
 Add &nbsp;&nbsp;&nbsp; CMAKE_CXX_STANDARD 11             //Fix undefined reference std::__cxx11 issue <br>
@@ -29,6 +32,7 @@ QT5 test app for image editing w/ OpenCV... <br>
 <img src="pic/TheAwesomeChicken.jpg" width=720/>
 <br>
 
+App for adjusting depth map from stereo phtos...<br>
 <img src="pic/DisparityFilter.jpg" width=720/> <br>
 
 <br><br>
@@ -38,5 +42,5 @@ QT5 test app for image editing w/ OpenCV... <br>
   - [OpenCV4.4](https://github.com/opencv) OpenCV Github repository w/ Opencv_contrib
   - [QT5.15](https://www.qt.io/download) _www.qt.io_ Where to download the QT5 framework
   - [Qt 5 and Open CV 4 Computer Vision Projects](https://www.youtube.com/playlist?list=PLeLcvrwLe187K3Ceoe3X3VMAa31591aO8) Watch YouTube clips online
-  - [Disparity Filter]()
+  - [Disparity and depth maps with QT and OpenCV with support for classic image files and MPO stereo pairs](https://github.com/AbsurdePhoton/disparity-filtering-mpo) Depth map project on Github.
 
