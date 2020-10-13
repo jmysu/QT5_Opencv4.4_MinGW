@@ -29,6 +29,8 @@ QT5 test app for image editing w/ OpenCV... <br>
 <img src="pic/TheAwesomeChicken.jpg" width=720/>
 <br>
 
+<img src="pic/DisparityFilter.jpg" width=720/> <br>
+
 <br><br>
 
 
@@ -36,5 +38,5 @@ QT5 test app for image editing w/ OpenCV... <br>
   - [OpenCV4.4](https://github.com/opencv) OpenCV Github repository w/ Opencv_contrib
   - [QT5.15](https://www.qt.io/download) _www.qt.io_ Where to download the QT5 framework
   - [Qt 5 and Open CV 4 Computer Vision Projects](https://www.youtube.com/playlist?list=PLeLcvrwLe187K3Ceoe3X3VMAa31591aO8) Watch YouTube clips online
-
+  - [Disparity Filter]()
 
