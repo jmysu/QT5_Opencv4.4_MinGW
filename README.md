@@ -25,11 +25,11 @@ Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to sys
 
 ### QT5 test app for image editing w/ OpenCV...### <br>
 (_from chap.02 in [Qt 5 and Open CV 4 Computer Vision Projects]_)<br>
-<img src="pic/TheAwesomeChicken.jpg" width=640/>
+<img src="pic/TheAwesomeChicken.jpg" width=480/>
 <br>
 
 ### App for adjusting depth map from stereo phtos...###<br>
-<img src="pic/DisparityFilter.jpg" width=640/> <br>
+<img src="pic/DisparityFilter.jpg" width=480/> <br>
 
 <br><br>
 
