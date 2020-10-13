@@ -18,6 +18,7 @@ Config OpenCV4.4 w/ following changes: <br>
 Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to system PATH)<br>
 
 <br>
+
  __QT5 app for loading picture w/ OpenCV4...__ <br>
 <img src="pic/OpenCV4TestPic.jpg" width=640 height=400/>
 <br>
