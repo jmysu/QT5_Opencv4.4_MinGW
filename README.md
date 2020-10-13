@@ -7,12 +7,11 @@ ________________________________________<br>
 | --- | --- |
 | v | WITH_QT &nbsp;&nbsp;&nbsp; //With QT mouse UI|
 | v | WITH_OPENGL |
-v &nbsp;&nbsp;&nbsp;  CMAKE_CXX_STANDARD_REQUIRED  <br>
-Add &nbsp;&nbsp;&nbsp; CMAKE_CXX_STANDARD 11             //Fix undefined reference std::__cxx11 issue <br>
-<br>
-x &nbsp;&nbsp;&nbsp;  OPENCV_ENABLE_ALLOCATOR_STATS     //Fix error:long <br>
-x &nbsp;&nbsp;&nbsp;  ENABLE_PRECOMPILED_HEADERS        //Fix math.h issue <br>
-Add &nbsp;&nbsp;&nbsp; OPENCV_EXTRA_MODULES_PATH where_saved_path_of_opencv_contrib _modules <br>
+| v |  CMAKE_CXX_STANDARD_REQUIRED |
+| Add | CMAKE_CXX_STANDARD 11 | //Fix undefined reference std::__cxx11 issue <br>
+| x | OPENCV_ENABLE_ALLOCATOR_STATS |    //Fix error:long <br>
+| x | ENABLE_PRECOMPILED_HEADERS |       //Fix math.h issue <br>
+| Add | OPENCV_EXTRA_MODULES_PATH where_saved_path_of_opencv_contrib _modules | <br>
 _________________________________________<br>
 <br>
  
