@@ -5,13 +5,13 @@ Config OpenCV4.4 w/ following changes: <br>
 <br>                            
 | Option  | Modified OpenCV Variables |
 | --- | --- |
-| v   | WITH_QT _//With QT mouse UI_ |
+|  v   | WITH_QT _//With QT mouse UI_ |
 | v   | WITH_OPENGL |
 | v   | CMAKE_CXX_STANDARD_REQUIRED |
-| Add | CMAKE_CXX_STANDARD 11_ //Fix undefined reference std:: issue_ |<br>
+| Add | CMAKE_CXX_STANDARD 11 _//Fix undefined reference std:: issue_ |
 | x   | OPENCV_ENABLE_ALLOCATOR_STATS _//Fix error:long_ |
 | x   | ENABLE_PRECOMPILED_HEADERS  _//Fix math.h issue_ |
-| Add | OPENCV_EXTRA_MODULES_PATH where_saved_path_of_opencv_contrib_modules | <br>
+| Add | OPENCV_EXTRA_MODULES_PATH where_saved_path_of_opencv_contrib_modules | 
 <br>
 <br>
  
