@@ -39,6 +39,7 @@ Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to sys
 
 
 ## References
+  - [OpenCV](https://opencv.org/) OpenCV website
   - [OpenCV4.4](https://github.com/opencv) OpenCV Github repository w/ Opencv_contrib
   - [QT5.15](https://www.qt.io/download) _www.qt.io_ Where to download the QT5 framework
   - [Qt 5 and Open CV 4 Computer Vision Projects](https://www.youtube.com/playlist?list=PLeLcvrwLe187K3Ceoe3X3VMAa31591aO8) Watch YouTube clips online
