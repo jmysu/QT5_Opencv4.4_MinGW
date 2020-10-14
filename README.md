@@ -1,6 +1,8 @@
 # QT5_Opencv4.4_MinGW[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 Build and test on MinGW64bit OpenCV4.4 w/ QT5 (Windows10)
 
+There is a another repository where I put some strucutred 3D stuff there: https://github.com/jmysu/Stereo3D
+
 Config OpenCV4.4 w/ following changes: <br>
 <br>                            
 | Option  | Modified OpenCV Variables |
