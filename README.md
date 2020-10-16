@@ -14,7 +14,7 @@ Config OpenCV4.4 w/ following changes: <br>
 | X   | OPENCV_ENABLE_ALLOCATOR_STATS _//Fix error:long_ |
 | X   | ENABLE_PRECOMPILED_HEADERS  _//Fix math.h issue_ |
 | Add | OPENCV_EXTRA_MODULES_PATH where_saved_path_of_opencv_contrib_modules | 
-| V   | WITH_OPENNI2 _//for Astra Pro depth camera |
+| V   | WITH_OPENNI2 _//for Astra Pro depth camera_ |
 | Add | OPENNI2_INCLUDE |
 | Add | OPENNI2_LIBRARY |
 <br>
