@@ -37,6 +37,10 @@ Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to sys
  (_from AbsurdePhoton_)<br>
 <img src="pic/DisparityFilter.jpg" width=480 height=300/> <br>
 
+ __QT5 app for Astra Pro depth camera w/ OpenNI2+OpenCV4...__<br>
+<br>
+<img src="pic/AstraDepth_OpenNI2.jpg" width=480 height=300/> <br>
+
 <br>
 <br>
 
