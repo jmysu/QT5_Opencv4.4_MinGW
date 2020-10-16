@@ -50,4 +50,5 @@ Rebuild OpenCV w/ Qt5.15.1-MinGW64bit... (remember to add openCV DLL path to sys
   - [QT5.15](https://www.qt.io/download) _www.qt.io_ Where to download the QT5 framework
   - [Qt 5 and Open CV 4 Computer Vision Projects](https://www.youtube.com/playlist?list=PLeLcvrwLe187K3Ceoe3X3VMAa31591aO8) Watch YouTube clips online
   - [Disparity and depth maps with QT and OpenCV with support for classic image files and MPO stereo pairs](https://github.com/AbsurdePhoton/disparity-filtering-mpo) AbsurdePhoton: Depth map project on Github.
+  - [Orbbec Astra SDK stuff](https://orbbec3d.com/develop/) Orbbec SDKs(include OpenNI2 SDK).
 
